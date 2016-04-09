@@ -1,0 +1,28 @@
+{
+  "name": "aseem2625.github.io",
+  "version": "0.1.0",
+  "description": "Aseem Gupta Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aseem2625:Helloworld5@github.com/aseem2625/aseem2625.github.io.git"
+  },
+  "keywords": [
+    "programmer",
+    "digital",
+    "art",
+    "sketch",
+    "portfolio",
+    "web",
+    "developer"
+  ],
+  "author": "Aseem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseem2625/aseem2625.github.io/issues"
+  },
+  "homepage": "https://github.com/aseem2625/aseem2625.github.io#readme"
+}
